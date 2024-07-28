@@ -1,0 +1,5 @@
+NIST SP 800-53: https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
+NIST SP 800-171: https://csrc.nist.gov/pubs/sp/800/171/r3/finalKnown
+CISA Known Exploited Vulnerabilities Catalog: https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+HIPAA: https://www.hhs.gov/hipaa/for-professionals/security/guidance/cybersecurity/index.html
+PCI: https://www.pcisecuritystandards.org/
